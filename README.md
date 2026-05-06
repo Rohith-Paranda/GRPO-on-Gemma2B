@@ -45,13 +45,14 @@ Launch the provided Jupyter notebook:
 jupyter notebook GRPO\ on\ Gemma\ 2B.ipynb
 ```
 Execute all cells sequentially. The notebook will:
--Load the SVAMP dataset
--Format prompts with explicit tag requirements
--Load the 4-bit quantized Gemma 2B model
--Apply LoRA adapters
--Run GRPO training
--Evaluate model before and after training
--Plot reward curves and accuracy bar chart
+
+- Load the SVAMP dataset
+- Format prompts with explicit tag requirements
+- Load the 4-bit quantized Gemma 2B model
+- Apply LoRA adapters
+- Run GRPO training
+- Evaluate model before and after training
+- Plot reward curves and accuracy bar chart
 
 ### 4. Use the trained adapter (optional)
 
