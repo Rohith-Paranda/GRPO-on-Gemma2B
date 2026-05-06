@@ -30,8 +30,8 @@ Training ran for 2 epochs (350 steps) with `num_generations=4`, `beta=0.005`, an
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/gemma-grpo-svamp.git
-cd gemma-grpo-svamp
+git clone https://github.com/Rohith-Paranda/GRPO-on-Gemma2B.git
+cd GRPO-on-Gemma2B
 ```
 ### 2. Install dependencies
 
